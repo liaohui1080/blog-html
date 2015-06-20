@@ -1,0 +1,16 @@
+util.print: Use console.log instead
+.body {
+  padding: 0px;
+}
+.toubu {
+  height: 600px;
+  background-color: #da4762;
+}
+.toubu h1 {
+  font-size: 400%;
+  line-height: 500px;
+  color: #ffffff;
+}
+.thumbnail {
+  margin: 0 auto;
+}
